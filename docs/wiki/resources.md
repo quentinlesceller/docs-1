@@ -68,6 +68,9 @@
     [What’s inside a Grin Transaction File?](https://medium.com/@brandonarvanaghi/whats-inside-a-grin-transaction-file-f062a0dcbf99) </br>
     [Breaking Mimblewimble’s Privacy Model](https://medium.com/dragonfly-research/breaking-mimblewimble-privacy-model-84bcd67bfe52) </br>
     [Factual inaccuracies of “Breaking Mimblewimble’s Privacy Model”](https://medium.com/grin-mimblewimble/factual-inaccuracies-of-breaking-mimblewimbles-privacy-model-8063371839b9) </br>
+    [Mimblewimble Without the Scary Math](https://blog.qtum.org/mimblewimble-without-scary-math-e894cb841b98) </br>
+    [Behind Mimblewimble](https://medium.com/scalar-capital/behind-mimblewimble-cd9da78a00e9) </br>
+    [An Introduction to Grin Proof-of-Work](https://blog.blockcypher.com/an-introduction-to-grin-proof-of-work-103aaa9f66ce) </br>
 
 ## Podcasts
 
@@ -87,15 +90,10 @@
     [[Coindesk] Harry Potter Characters Join Mimblewimble 2016](https://www.coindesk.com/coders-harry-potter-bitcoin-mimblewimble) </br>
     [[Github] Meeting Notes](https://github.com/mimblewimble/grin-pm#2020) </br>
     [[Reddit] On Grin's Privacy](https://www.reddit.com/r/grincoin/comments/g43fhe/is_there_any_progress_on_reducing_linkability_of/fnv7lfh/) </br>
-    [[Launchpad] Scripting observations and Lightning Network implementation](https://lists.launchpad.net/mimblewimble/msg00029.html)
+    [[Launchpad] Scripting observations and Lightning Network implementation](https://lists.launchpad.net/mimblewimble/msg00029.html) </br>
     [[GitHub] Grin difficulty, C29, C31 fade out and C32](https://github.com/Lolliedieb/lolMiner-releases/wiki/All-you-need-to-know-about-Grin-difficulty,-C29,-C31-fade-out-and-C32) </br>
     [[GitHub] Fees in Mining](https://github.com/mimblewimble/grin/wiki/fees-mining) </br>
-    [[Google] Replay Attacks Summary](https://docs.google.com/document/d/1BbXhgFd3byP_gfvnteRq4BmfXjtv5PJtJwI13CJsZT8/edit#)
-
-#### RFCs
-
-:   [[Github] All Accepted RFCs](https://github.com/mimblewimble/grin-rfcs#list-of-accepted-rfcs) </br>
-    [[Github] All Pending RFCs](https://github.com/mimblewimble/grin-rfcs/pulls) </br>
+    [[Google] Replay Attacks Summary](https://docs.google.com/document/d/1BbXhgFd3byP_gfvnteRq4BmfXjtv5PJtJwI13CJsZT8/edit#) </br>
 
 ## Papers
 
@@ -103,3 +101,4 @@
     [OWAS](https://download.wpsoftware.net/bitcoin/wizardry/horasyuanmouton-owas.pdf) </br>
     [Bulletproofs](https://eprint.iacr.org/2017/1066.pdf) </br>
     [Cuckoo Cycle](https://github.com/tromp/cuckoo/blob/master/doc/cuckoo.pdf) </br>
+    [Instability Without Block Reward](On the Instability of Bitcoin Without the Block Reward) </br>
